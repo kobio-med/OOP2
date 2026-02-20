@@ -1,10 +1,4 @@
-echo "# showroom.java" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/kobio-med/showroom.java.git
-git push -u origin maingit import java.util.Scanner;
+
 
 // ========== CLASS: StudentRecord ==========
 class StudentRecord {
